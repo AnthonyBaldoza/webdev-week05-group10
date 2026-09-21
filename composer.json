@@ -1,0 +1,10 @@
+{
+    "name": "group10/webdev-week05",
+    "description": "OOP Mini-Program - Chess Tournament Tracker",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
